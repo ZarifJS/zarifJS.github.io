@@ -1,0 +1,41 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+#header {
+    height: 150px;
+    background-color: #66cc66;
+}
+
+#line {
+    height: 50px;
+    background-color: #ff9900;
+}
+
+#contacts>li:nth-child(1) {
+    list-style-image: url("../img/gmail-icon.png")
+}
+
+#contacts>li:nth-child(2) {
+    list-style-image: url("../img/vk-icon.png")
+}
+
+#contacts>li:nth-child(3) {
+    list-style-image: url("../img/tg-icon.png")
+}
+
+#push {
+    height: 100px;
+}
+
+#wrapper {
+    min-height: 100%;
+    margin-bottom: -100px;
+}
+
+#footer {
+    height: 100px;
+    background-color: #0099cc;
+}
