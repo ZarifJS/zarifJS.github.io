@@ -24,13 +24,7 @@ a:hover {
   width: 800px;
 }
 
-#header {
-
-}
-
 #header h1 { 
-  font-size: 28px;
-  letter-spacing: -1px;
   padding: 15px 0 0 20px;
   color: #fff;
 }
@@ -38,8 +32,6 @@ a:hover {
 #header h1 a { 
   color: #FFA500;
   text-decoration: none;
-  font-weight: 100;
-  letter-spacing: -2px;
 }
 
 #header h1 a:hover {
@@ -47,11 +39,8 @@ a:hover {
 }
 
 #header h2 {
-  font-size: 19px;
   color: #008000;
   padding: 5px 0 0 20px;
-  letter-spacing: -1px;
-  font-weight: 100;
 }
 
 #content {
@@ -63,23 +52,6 @@ a:hover {
   width: 570px;
   text-align: justify;
   padding-top: 20px;
-}
-
-.left h2 {
-  font-size: 18px;
-  font-weight: 100;
-  padding-left: 10px;
-  height: 30px;
-  line-height: 30px;
-  background: #008000;
-}
-
-.left h2 a {
-  text-decoration: none;
-  color: #fff;
-}
-.left h2 a:hover {
-  color: #111;
 }
 
 .left h3 {
@@ -94,34 +66,6 @@ a:hover {
   float: right;
   width: 180px;
   padding-top: 10px;
-}
-
-.right h2 {
-  margin: 10px 0 0 0;
-  padding-left: 10px;
-  height: 30px;
-  line-height: 30px;
-  background: #008000;
-  color: #fff;
-  font-size: 13px;
-}
-
-.right ul {
-  padding: 10px 0 15px 20px;
-  color: #008000;
-}
-
-.right ul li a {
-  text-decoration: none;
-  font-weight: 600;
-}
-
-.right ul li a:hover {
-
-}
-
-.articles {
-  padding: 10px;
 }
 
 #footer {
